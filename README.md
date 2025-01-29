@@ -8,4 +8,4 @@ Other things I do is photography, occasional recordings, and a fair amount of ga
 
 Languages that I know: C#, Java, Python, C, C++, JavaScript. There's probs something I am missing, I'll update when I remember haha
 
--# Snakes are so cool
+Snakes are so cool
