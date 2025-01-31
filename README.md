@@ -6,6 +6,10 @@ I code whatever I feel like whenever I feel like it, as of typing this GitHub re
 
 Other things I do is photography, occasional recordings, and a fair amount of gaming.
 
-Languages that I know: C#, Java, Python, C, C++, JavaScript. There's probs something I am missing, I'll update when I remember haha
+[![Languages I know](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,r)](https://skillicons.dev)
+
+[![Coding tools I use](https://skillicons.dev/icons?i=androidstudio,clion,eclipse,idea,pycharm,rider,unity,vim,visualstudio,vscode,webstorm)](https://skillicons.dev)
+
+[![Other things I use](https://skillicons.dev/icons?i=apple,arch,linux,ps,pr,raspberrypi,windows)](https://skillicons.dev)
 
 Snakes are so cool
