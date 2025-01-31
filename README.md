@@ -8,14 +8,14 @@ Other things I do is photography, occasional recordings, and a fair amount of ga
 
 Languages I know:
 
-[![Languages I know](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,r)](https://skillicons.dev)
+![Coding Languages](https://skills-icons.vercel.app/api/icons?i=c,cpp,cs,java,js,py,r)
 
 Coding tools I use:
 
-[![Coding tools I use](https://skillicons.dev/icons?i=androidstudio,clion,eclipse,github,idea,pycharm,rider,unity,vim,visualstudio,vscode,webstorm)](https://skillicons.dev)
+![Coding tools I use](https://skills-icons.vercel.app/api/icons?i=androidstudio,clion,eclipse,github,intellij,notepadpp,pycharm,rider,unity,vim,visualstudio,vscode,webstorm)
 
 Other things I use (i.e. OSes, other non-coding tools, etc.):
 
-[![Other things I use](https://skillicons.dev/icons?i=apple,arch,linux,ps,pr,raspberrypi,windows)](https://skillicons.dev)
+![Other things I use](https://skills-icons.vercel.app/api/icons?i=apple,arch,gimp,lightroom,linux,ps,pr,raspberrypi,steam,windows)
 
 Snakes are so cool
