@@ -8,7 +8,7 @@ Other things I do is photography, occasional recordings, and a fair amount of ga
 
 Languages I know:
 
-![Coding Languages](https://skills-icons.vercel.app/api/icons?i=c,cpp,cs,java,js,py,r)
+![Coding Languages](https://skills-icons.vercel.app/api/icons?i=c,cpp,csharp,java,js,py,r)
 
 Coding tools I use:
 
