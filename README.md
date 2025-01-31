@@ -16,6 +16,6 @@ Coding tools I use:
 
 Other things I use (i.e. OSes, other non-coding tools, etc.):
 
-![Other things I use](https://skills-icons.vercel.app/api/icons?i=apple,arch,gimp,lightroom,linux,ps,pr,raspberrypi,steam,windows)
+![Other things I use](https://skills-icons.vercel.app/api/icons?i=apple,arch,discord,gimp,lightroom,linux,ps,pr,raspberrypi,steam,windows)
 
 Snakes are so cool
