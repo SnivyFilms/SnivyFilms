@@ -20,8 +20,4 @@ Other things I use (i.e. OSes, other non-coding tools, etc.):
 
 Snakes are so cool
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SnivyFilms/SnivyFilms/blob/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: dark) and (prefers-contrast: more)" srcset="https://github.com/SnivyFilms/SnivyFilms/blob/output/snake-dark-high-contrast.svg">
-  <img src="https://github.com/SnivyFilms/SnivyFilms/blob/output/snake.svg" alt="GitHub Contribution Snake">
-</picture>
+![Snakes are so cool](https://github.com/SnivyFilms/SnivyFilms/blob/output/github-contribution-grid-snake.svg)
