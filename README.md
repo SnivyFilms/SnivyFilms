@@ -19,5 +19,3 @@ Other things I use (i.e. OSes, other non-coding tools, etc.):
 ![Other things I use](https://skills-icons.vercel.app/api/icons?i=apple,arch,discord,gimp,lightroom,linux,ps,premierepro,raspberrypi,steam,windows)
 
 Snakes are so cool
-
-![Profile views counter](https://komarev.com/ghpvc/?username=SnivyFilms&&style=flat-square)
