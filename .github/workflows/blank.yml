@@ -1,0 +1,40 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Light Mode Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+
+      - name: Generate Dark Mode Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake-dark.svg
+          color_snake: "#00ff00"
+          color_dots: "#ffffff, #444444"
+
+      - name: Generate High Contrast Dark Mode Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake-dark-high-contrast.svg
+          color_snake: "#ffcc00"
+          color_dots: "#ffffff, #000000"
+
+      - name: Push Snake Game to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
