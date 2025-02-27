@@ -19,3 +19,9 @@ Other things I use (i.e. OSes, other non-coding tools, etc.):
 ![Other things I use](https://skills-icons.vercel.app/api/icons?i=apple,arch,discord,gimp,lightroom,linux,ps,premierepro,raspberrypi,steam,windows)
 
 Snakes are so cool
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
