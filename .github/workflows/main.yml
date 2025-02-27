@@ -16,13 +16,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: SnivyFilms
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
 
       - name: Ensure Dist Directory Exists
         run: mkdir -p dist
 
       - name: Push Snake Game to Repository
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
