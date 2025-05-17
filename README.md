@@ -1,6 +1,6 @@
 ## Salutations
 
-I am an American Computer Science Student.
+I am an American Computer Science Graduate.
 
 I code whatever I feel like whenever I feel like it, as of typing this GitHub readme which is making plugins for SCP SL.
 
